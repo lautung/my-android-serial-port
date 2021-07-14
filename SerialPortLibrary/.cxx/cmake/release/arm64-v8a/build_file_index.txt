@@ -1,1 +1,0 @@
-D:\mNDK\NDK_VIP\ndk52_Serial\data\serial_port\SerialPortLibrary\src\main\cpp\CMakeLists.txt

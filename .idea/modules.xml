@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/my-android-serial-port.iml" filepath="$PROJECT_DIR$/.idea/modules/my-android-serial-port.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SerialPortLibrary/my-android-serial-port.SerialPortLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/SerialPortLibrary/my-android-serial-port.SerialPortLibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/my-android-serial-port.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/my-android-serial-port.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/my-android-serial-port.lib.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/my-android-serial-port.lib.iml" />
     </modules>
   </component>
 </project>

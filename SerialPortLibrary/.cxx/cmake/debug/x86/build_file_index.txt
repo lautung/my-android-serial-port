@@ -1,1 +1,0 @@
-C:\Users\lautung\Desktop\my-android-serial-port\SerialPortLibrary\src\main\cpp\CMakeLists.txt

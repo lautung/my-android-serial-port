@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="1.7">
-      <module name="my-android-serial-port.app" target="11" />
-      <module name="my-android-serial-port.SerialPortLibrary" target="11" />
+    <bytecodeTargetLevel target="11">
       <module name="serial_port.app" target="11" />
       <module name="serial_port.SerialPortLibrary" target="11" />
     </bytecodeTargetLevel>

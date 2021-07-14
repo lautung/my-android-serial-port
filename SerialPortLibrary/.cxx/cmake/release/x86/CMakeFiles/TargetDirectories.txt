@@ -1,3 +1,0 @@
-D:/mNDK/NDK_VIP/ndk52_Serial/data/serial_port/SerialPortLibrary/.cxx/cmake/release/x86/CMakeFiles/SerialPort.dir
-D:/mNDK/NDK_VIP/ndk52_Serial/data/serial_port/SerialPortLibrary/.cxx/cmake/release/x86/CMakeFiles/edit_cache.dir
-D:/mNDK/NDK_VIP/ndk52_Serial/data/serial_port/SerialPortLibrary/.cxx/cmake/release/x86/CMakeFiles/rebuild_cache.dir
