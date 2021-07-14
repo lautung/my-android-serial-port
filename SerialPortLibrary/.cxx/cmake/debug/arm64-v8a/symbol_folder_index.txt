@@ -1,0 +1,1 @@
+D:\mNDK\NDK_VIP\ndk52_Serial\data\serial_port\SerialPortLibrary\build\intermediates\cmake\debug\obj\arm64-v8a

@@ -1,0 +1,3 @@
+# ninja log v5
+0	170	647416975	CMakeFiles/SerialPort.dir/SerialPort.c.o	51d969a28be397a3
+171	251	647416976	D:/mNDK/NDK_VIP/ndk52_Serial/data/serial_port/SerialPortLibrary/build/intermediates/cmake/debug/obj/x86_64/libSerialPort.so	b8be43756088737f

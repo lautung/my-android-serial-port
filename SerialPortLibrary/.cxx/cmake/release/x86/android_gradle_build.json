@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "D:\\mNDK\\NDK_VIP\\ndk52_Serial\\data\\serial_port\\SerialPortLibrary\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\mNDK\\NDK_VIP\\ndk52_Serial\\data\\serial_port\\SerialPortLibrary\\.cxx\\cmake\\release\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\mNDK\\NDK_VIP\\ndk52_Serial\\data\\serial_port\\SerialPortLibrary\\.cxx\\cmake\\release\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "SerialPort-Release-x86": {
+      "buildCommandComponents": [
+        "D:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\mNDK\\NDK_VIP\\ndk52_Serial\\data\\serial_port\\SerialPortLibrary\\.cxx\\cmake\\release\\x86",
+        "SerialPort"
+      ],
+      "buildType": "release",
+      "abi": "x86",
+      "artifactName": "SerialPort",
+      "output": "D:\\mNDK\\NDK_VIP\\ndk52_Serial\\data\\serial_port\\SerialPortLibrary\\build\\intermediates\\cmake\\release\\obj\\x86\\libSerialPort.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

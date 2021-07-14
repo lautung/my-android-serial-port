@@ -1,0 +1,3 @@
+C:/Users/lautung/Desktop/my-android-serial-port/SerialPortLibrary/.cxx/cmake/debug/x86/CMakeFiles/SerialPort.dir
+C:/Users/lautung/Desktop/my-android-serial-port/SerialPortLibrary/.cxx/cmake/debug/x86/CMakeFiles/edit_cache.dir
+C:/Users/lautung/Desktop/my-android-serial-port/SerialPortLibrary/.cxx/cmake/debug/x86/CMakeFiles/rebuild_cache.dir
